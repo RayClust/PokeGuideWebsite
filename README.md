@@ -11,11 +11,15 @@ Dibuat dan dijalankan untuk pembelajaran MK Web Framework menggunakan [Laravel 8
             
         git clone git@github.com:RayClust/PokeGuideWebsite.git
 
-3. Instal dependencies PHP dengan menggunakan [Composer][5]:
+3. Instalasi dependencies PHP dengan menggunakan [Composer][5]:
 
         composer install
 
-4. Jalankan web:
+4. Buat key baru:
+
+        php artisan key:generate
+
+5. Jalankan web:
 
         php artisan serve
 
