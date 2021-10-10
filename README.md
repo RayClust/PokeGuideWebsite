@@ -1,4 +1,5 @@
 # THE POKE GUIDE
+##Ahmad Al Ghiffari/1710817210001
 ## Tentang
 Website yang berisi tentang Guide mengenai game Pokemon.
 Dibuat dan dijalankan untuk pembelajaran MK Web Framework menggunakan [Laravel 8][1]
