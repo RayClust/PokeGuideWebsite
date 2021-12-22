@@ -21,11 +21,15 @@ Dibuat dan dijalankan untuk pembelajaran MK Web Framework menggunakan [Laravel 8
 
         composer install
 
-4. Buat key baru setelah membuat file .env sesuai dengan .env.example:
+4. Buat key baru setelah membuat file .env dari .env.example yang tersedia:
 
         php artisan key:generate
 
-5. Jalankan web dan akses ke address yang dijalankan:
+4. Migrate data ke database kosong dengan nama yang sesuai dengan .env
+
+        php artisan migrate
+        
+6. Jalankan web dan akses ke address yang dijalankan:
 
         php artisan serve
 
