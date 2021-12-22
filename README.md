@@ -1,3 +1,11 @@
+# ATTENTION
+
+[maaf tapi git saya selalu crash saat ingin melakukan push dan setelah tidak menemukan solusi alhasil saya memasukkan master branch saya yang ter update di link gdrive ini]
+
+https://drive.google.com/file/d/1L4msXlbohhRkTDRlgcw564b4ecReRVNo/view?usp=sharing
+
+[sekali lagi saya minta maaf]
+
 # THE POKE GUIDE
 
 ## Ahmad Al Ghiffari/1710817210001
